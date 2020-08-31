@@ -1,4 +1,4 @@
-<img align="right" width="45%" height="45%" alt="GIF" src="raw.githubusercontent.com/henry232323/henry232323/master/images/header.gif" />
+<img align="right" width="45%" height="45%" alt="GIF" src="https://raw.githubusercontent.com/henry232323/henry232323/master/images/header.gif" />
 
 Hi! I'm **henry232323**
 
