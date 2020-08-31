@@ -7,6 +7,10 @@ Hi! I'm **henry232323**
 - Via GitHub issues: [New issue · henry232323/henry232323](https://github.com/henry232323/henry232323/issues/new)
 - Via [Discord](https://discord.com): Henry#8808
 
+#### Support Me
+- Via [Ko-Fi](https://ko-fi.com/henry232323)
+- Via [Patreon](https://www.patreon.com/henry232323)
+
 #### Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henry232323&layout=compact&theme=tokyonight)
