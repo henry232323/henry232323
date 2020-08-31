@@ -15,7 +15,7 @@ Hi! I'm **henry232323**
 
 #### Repositories
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=henry232323&repo=RPGBot&theme=tokyonight)](github.com/henry232323/RPGBot)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=henry232323&repo=henrio&theme=tokyonight)](github.com/henry232323/henrio)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=henry232323&repo=triqt&theme=tokyonight)](github.com/henry232323/triqt)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=henry232323&repo=Pesterchum-Discord&theme=tokyonight)](github.com/henry232323/Pesterchum-Discord)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=henry232323&repo=RPGBot&theme=tokyonight)](https://github.com/henry232323/RPGBot)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=henry232323&repo=henrio&theme=tokyonight)](https://github.com/henry232323/henrio)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=henry232323&repo=triqt&theme=tokyonight)](https://github.com/henry232323/triqt)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=henry232323&repo=Pesterchum-Discord&theme=tokyonight)](https://github.com/henry232323/Pesterchum-Discord)
