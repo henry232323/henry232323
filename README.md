@@ -15,11 +15,3 @@ Hi! I'm **henry232323**
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henry232323&layout=compact)
 ![@henry232323](https://github-readme-stats.vercel.app/api?username=henry232323&count_private=true&show_icons=true)
-
-
-#### Repositories
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=henry232323&repo=RPGBot)](https://github.com/henry232323/RPGBot)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=henry232323&repo=henrio)](https://github.com/henry232323/henrio)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=henry232323&repo=triqt)](https://github.com/henry232323/triqt)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=henry232323&repo=Pesterchum-Discord)](https://github.com/henry232323/Pesterchum-Discord)
