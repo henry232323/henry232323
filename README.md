@@ -11,3 +11,11 @@ Hi! I'm **henry232323**
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henry232323&layout=compact&theme=tokyonight)
 ![@henry232323](https://github-readme-stats.vercel.app/api?username=henry232323&count_private=true&show_icons=true&theme=tokyonight)
+
+
+#### Repositories
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=henry232323&repo=RPGBot&theme=tokyonight)](github.com/henry232323/RPGBot)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=henry232323&repo=henrio&theme=tokyonight)](github.com/henry232323/henrio)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=henry232323&repo=triqt&theme=tokyonight)](github.com/henry232323/triqt)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=henry232323&repo=Pesterchum-Discord&theme=tokyonight)](github.com/henry232323/Pesterchum-Discord)
