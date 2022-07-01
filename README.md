@@ -3,7 +3,6 @@
 Hi! I'm **henry232323**
 
 #### Contact
-- Via E-mail: [henrywebsite325@gmail.com](mailto:dianliang233@gmail.com)
 - Via GitHub issues: [New issue · henry232323/henry232323](https://github.com/henry232323/henry232323/issues/new)
 - Via [Discord](https://discord.com): henry232323
 
