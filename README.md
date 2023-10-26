@@ -4,7 +4,7 @@ Hi! I'm **henry232323**
 
 #### Contact
 - Via GitHub issues: [New issue · henry232323/henry232323](https://github.com/henry232323/henry232323/issues/new)
-- Via [Discord](https://discord.com): Henry#8808
+- Via [Discord](https://discord.com): henry232323
 
 #### Support Me
 - Via [Ko-Fi](https://ko-fi.com/henry232323)
