@@ -14,3 +14,4 @@ Hi! I'm **henry232323**
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henry232323&layout=compact)
 ![@henry232323](https://github-readme-stats.vercel.app/api?username=henry232323&count_private=true&show_icons=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=henry232323)](https://git.io/streak-stats)
